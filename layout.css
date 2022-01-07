@@ -1,0 +1,45 @@
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+    color: #fff;
+}
+
+#header {
+    background-color: rgb(241, 21, 223);
+    height: 100px;
+    width: 800px;
+}
+
+#menu {
+    background-color: blue;
+    height: 50px;
+    width: 800px;
+}
+
+#content {
+    display: inline-flex;
+}
+
+#left {
+    background-color: greenyellow;
+    width: 200px;
+    height: 500px;
+}
+
+#content1 {
+    background-color: green;
+    width: 400px;
+    height: 500px;
+}
+
+#right {
+    background-color: orange;
+    width: 200px;
+    height: 500px;
+}
+
+#footer {
+    background-color: rgb(89, 71, 167);
+    height: 70px;
+    width: 800px;
+}
